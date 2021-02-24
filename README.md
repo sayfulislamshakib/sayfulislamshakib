@@ -1,19 +1,22 @@
-<h1 align="center">Hi, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm Sayful Islam Shakib</h1>
-<h3 align="center">A passionate front-end developer & professional graphics designer. I spend most of my time coding outstanding projects or UX/UI and designing from Bangladesh. <img src="flag.png" width="28px" alt="Bangladesh flag"></h3><hr color=#DBFF33>
+<h1 align="center">HI, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'M SAYFUL ISLAM SHAKIB</h1>
+<h3 align="center">A PASSIONATE FRONT-END DEVELOPER & PROFESSIONAL GRAPHICS DESIGNER. I SPEND MOST OF MY TIME CODING OUTSTANDING PROJECTS OR UX/UI AND DESIGNING FROM BANGLADESH. <img src="images/flag.png" width="28px" alt="Bangladesh flag"></h3><hr color=#DBFF33>
 
-<h2 align="center">Profile visitors:</h2>
+<h2 align="center">PROFILE VISITORS:</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sayfulislamshakib&label=Profile%20views&color=0e75b6&style=flat" alt="sayfulislamshakib" /> </p>
-<h2 align="center">My Twitter:</h2>
+<h2 align="center">MY TWITTER:</h2>
 <p align="center"> <a href="https://twitter.com/sayful_shakib" target="_blank"><img src="https://img.shields.io/twitter/follow/sayful_shakib?logo=twitter&style=for-the-badge" alt="sayful_shakib" /></a> </p>
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">CONNECT WITH ME:</h2>
 <p align="center">
-<a href="https://twitter.com/sayful_shakib" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sayful_shakib" height="30" width="40" /></a>
-<a href="https://fb.com/sis.shakib.DT" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Sayful Islam Shakib Facebook" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/sayful_shakib" target="_blank"><img align="center" src="images/twitter.svg" alt="sayful_shakib" height="30" width="40" /></a>
+<a href="https://fb.com/sis.shakib.DT" target="_blank"><img align="center" src="images/facebook.svg" alt="Sayful Islam Shakib Facebook" height="30" width="40" /></a>
+<a href="https://t.me/sayfulislamshakib" target="_blank"><img align="center" src="images/telegram.svg" alt="Sayful Islam Shakib Facebook" height="30" width="40" /></a></p>
 
-<h2 align="center">Languages:</h2>
+<h2 align="center">CONNECT BY EMAIL:</h2>
+<h3 align="center"><a href="mailto:connect.sayful@gmail.com">connect.sayful@gmail.com</a></h3>
+
+<h2 align="center">LANGUAGES:</h2>
 
 <p align="center">
 <!-- html logo -->
