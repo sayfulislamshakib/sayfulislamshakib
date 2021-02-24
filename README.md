@@ -16,6 +16,9 @@
 <h2 align="center">CONNECT BY EMAIL:</h2>
 <h3 align="center"><a href="mailto:connect.sayful@gmail.com">connect.sayful@gmail.com</a></h3>
 
+<h2 align="center">WATCH MY CV:</h2>
+<p align="center"><a href="Sayful_Islam_Shakib_CV.pdf" target="_blank"><img src="images/approved.svg" alt="sayful_shakib" height="30" width="40" /></a></p>
+
 <h2 align="center">LANGUAGES:</h2>
 
 <p align="center">
