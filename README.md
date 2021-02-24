@@ -5,12 +5,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sayfulislamshakib&label=Profile%20views&color=0e75b6&style=flat" alt="sayfulislamshakib" /> </p>
 <h2 align="center">My twitter:</h2>
-<p align="center"> <a href="https://twitter.com/sayful_shakib" target="blank"><img src="https://img.shields.io/twitter/follow/sayful_shakib?logo=twitter&style=for-the-badge" alt="sayful_shakib" /></a> </p>
+<p align="center"> <a href="https://twitter.com/sayful_shakib" target="_blank"><img src="https://img.shields.io/twitter/follow/sayful_shakib?logo=twitter&style=for-the-badge" alt="sayful_shakib" /></a> </p>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-<a href="https://twitter.com/sayful_shakib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sayful_shakib" height="30" width="40" /></a>
-<a href="https://fb.com/sis.shakib.DT" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sis.shakib.dt" height="30" width="40" /></a>
+<a href="https://twitter.com/sayful_shakib" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sayful_shakib" height="30" width="40" /></a>
+<a href="https://fb.com/sis.shakib.DT" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sis.shakib.dt" height="30" width="40" /></a>
 </p>
 
 <h2 align="center">Languages:</h2>
