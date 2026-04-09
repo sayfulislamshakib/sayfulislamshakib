@@ -3,6 +3,7 @@
 </p>
 
 **— UX Designer**
+
 Helping people and businesses shine through intentional design.
 
 **About**
