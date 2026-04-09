@@ -1,6 +1,6 @@
-<h2>Hi, I'm Sayful Islam Shakib 👋</h2>>
+<h2>Hi, I'm Sayful Islam Shakib 👋</h2>
 
-**UX Designer**
+**— UX Designer**
 
 Helping people and businesses shine through intentional design.
 
