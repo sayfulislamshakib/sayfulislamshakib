@@ -1,6 +1,6 @@
-# Hi, I'm Sayful Islam Shakib 👋
+## Hi, I'm Sayful Islam Shakib 👋
 
-### UX Designer
+### - UX Designer
 Helping people and businesses shine through intentional design.
 
 #### About
