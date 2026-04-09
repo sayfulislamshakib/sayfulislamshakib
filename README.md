@@ -1,6 +1,4 @@
-<p align="left">
-  <strong style="font-size: 2em;">Hi, I'm Sayful Islam Shakib 👋</strong>
-</p>
+<h2>Hi, I'm Sayful Islam Shakib 👋</h2>>
 
 **UX Designer**
 
