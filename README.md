@@ -1,7 +1,8 @@
-<h2>Hi, I'm Sayful Islam Shakib 👋</h2>
+<p align="left">
+  <strong style="font-size: 2em;">Hi, I'm Sayful Islam Shakib 👋</strong>
+</p>
 
-**— UX Designer**
-
+**UX Designer**
 Helping people and businesses shine through intentional design.
 
 **About**
